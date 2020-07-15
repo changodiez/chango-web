@@ -1,4 +1,4 @@
 # Chango Diez Portfolio
 
 
-The website is now available here: www.changodiez.com
+The website is now available here: https://changodiez.github.io/chango-web/
